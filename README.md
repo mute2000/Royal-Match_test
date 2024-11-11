@@ -17,4 +17,4 @@
   3. 生成测试报告。
 
 ## 测试用例的编写，执行和测试报告
-  - 核心玩法的测试用例： https://app.qase.io/project/RMT
+  - 核心玩法的测试用例： https://app.qase.io/public/report/19401256396f7c1035c6b3bb8b7da2ef128a8b94
